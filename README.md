@@ -1,0 +1,1 @@
+# MalarialCellDetection_CNN
